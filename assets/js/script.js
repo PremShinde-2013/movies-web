@@ -1,10 +1,10 @@
 /** @format */
 
-'use strict';
+// 'use strict';
 
-import { sidebar } from './sidebar.js';
+// import { sidebar } from './sidebar.js';
 
-sidebar();
+// sidebar();
 
 // dark light mode
 var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
